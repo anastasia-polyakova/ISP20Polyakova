@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\bin\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.exe
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\bin\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.deps.json
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\bin\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.runtimeconfig.json
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\bin\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.dll
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\bin\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.pdb
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.dll
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\refint\Vtitbid.ISP20.Polyakova.price.sln.dll
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.pdb
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.price.sln.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.price.sln\obj\Debug\net6.0\ref\Vtitbid.ISP20.Polyakova.price.sln.dll

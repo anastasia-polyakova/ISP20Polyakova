@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.Route.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.Route.sln.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.Route.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.Route.sln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.Route.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.Route.sln.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.Route.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.Route.sln.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Vtitbid.ISP20.Polyakova.price.sln\Vtitbid.ISP20.Polyakova.Route.sln\obj\Debug\net6.0\Vtitbid.ISP20.Polyakova.Route.sln.csproj.CoreCompileInputs.cache
